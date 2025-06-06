@@ -34,8 +34,8 @@
 
 ## 📂 Репозитории-примеры
 
-- Пример простого бота: [@rbx_base_script_bot](https://t.me/rbx_base_script_bot)
-- Бот с кнопками и базой: (https://github.com/yourusername/bot-with-db)
+- Пример простого бота: [@simple_calculator_test_bot](https://t.me/simple_calculator_test_bot)
+- Бот с кнопками и базой: [@rbx_base_script_bot](https://t.me/rbx_base_script_bot) 
 - Бот с платёжной системой: (https://github.com/yourusername/payment-bot)
 
 ⚠️ Некоторые проекты закрыты или переданы заказчикам.
